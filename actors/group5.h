@@ -82,4 +82,6 @@ extern const Gfx tornado_seg5_dl_05014450[];
 extern const Gfx tornado_seg5_dl_050145C0[];
 extern const GeoLayout tweester_geo[];
 
+#include "pokey/geo_header.h"
+
 #endif
